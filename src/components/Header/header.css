@@ -1,0 +1,36 @@
+.header{
+    width: 95vw;
+    background-color: black;
+    height: 100px;
+    margin-bottom:20px ;
+}
+.header .all-movies{
+    position: absolute;
+    margin-top: 150px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content:space-around
+}
+.search{
+    position: absolute;
+    margin-left: 70vw;
+    margin-top: 35px;
+}
+.logo{
+    background-color: aliceblue;
+    width: fit-content;
+    position: absolute;
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 20px;
+    padding: 10px 20px;
+}
+.fav-logo{
+    background-color: black;
+    color: white;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: larger;
+    margin-bottom: 0;
+}

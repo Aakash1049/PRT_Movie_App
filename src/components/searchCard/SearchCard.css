@@ -1,0 +1,21 @@
+.search-card .image img{
+    width: 300px;
+    height: 400px;
+}
+.search-card{
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.search-card :hover{
+    scale: 1.055;
+}
+.search-card .add-fav{
+    position: absolute;
+    margin-top: -80px;
+    background-color: lightcoral;
+    width: 200px;
+    height: 40px;
+    padding-top: 18px;
+    padding-left: 80px;
+}
